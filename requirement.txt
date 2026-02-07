@@ -1,0 +1,7 @@
+langchain_ollama
+pathlib
+langgraph
+langchain_core
+langchain_community
+pandas
+streamlit
